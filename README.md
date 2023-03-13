@@ -9,4 +9,4 @@
 * I have 3 **cats** 
 * Loves volleyball
 
-![Get a cat](https://www.live-work.immigration.govt.nz/resources/owning-a-cat)
+[Get a cat](https://www.live-work.immigration.govt.nz/resources/owning-a-cat)
