@@ -6,5 +6,7 @@
 
 *My interests*
 
-* I have 3 cats 
+* I have 3 **cats** 
 * Loves volleyball
+
+![Get a cat](https://www.live-work.immigration.govt.nz/resources/owning-a-cat)
