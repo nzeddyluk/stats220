@@ -5,5 +5,6 @@
 2. I think it will be of use for my future if I become a data collector.
 
 *My interests*
--I have 3 cats 
--Loves volleyball
+
++I have 3 cats 
++Loves volleyball
