@@ -6,5 +6,5 @@
 
 *My interests*
 
-+I have 3 cats 
-+Loves volleyball
+*I have 3 cats 
+*Loves volleyball
